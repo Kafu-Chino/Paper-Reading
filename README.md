@@ -42,6 +42,8 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](http://papers.
 
 ## Dialogue System
 * **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](https://arxiv.org/pdf/1905.07687.pdf) :star::star::star::star:
+* **Table-to-Text Generation (R,C,T)**: "Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1310.pdf) [[code]](https://github.com/ErnestGong/data2text-three-dimensions) :star::star::star:
+* **KB Retriever**: "Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue) :star::star::star:
 * **HDSA**: "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1360) [[code]](https://github.com/wenhuchen/HDSA-Dialog) :star::star::star::star:
 * **TRADE**: "Transferable Multi-Domain State Generator for Task-Oriented
 Dialogue Systems". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1078) [[code]](https://github.com/jasonwu0731/trade-dst) :star::star::star::star:
