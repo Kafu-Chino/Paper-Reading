@@ -5,7 +5,7 @@ Paper reading list in natural language processing.
 - [Paper-Reading](#paper-reading)
   - [Deep Learning in NLP](#deep-learning-in-nlp)
   - [Dialogue System](#dialogue-system)
-  - [Knowledge Representation & Reasoning](#knowledge-representation-&-reasoning)
+  - [Knowledge Representation & Reasoning](#knowledge-representation-\&-reasoning)
   - [Text Summarization](#text-summarization)
   - [Topic Modeling](#topic-modeling)
   - [Machine Translation](#machine-translation)
@@ -45,7 +45,6 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](http://papers.
 * **RefNet**: "RefNet: A Reference-aware Network for Background Based Conversation". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet) :star::star::star:
 * **GLKS**: "Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) :star::star::star:
 * **MALA**: "MALA: Cross-Domain Dialogue Generation with Action Learning". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1912.08442.pdf) :star::star::star:
-
 * **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](https://arxiv.org/pdf/1905.07687.pdf) :star::star::star::star:
 * **Table-to-Text Generation (R,C,T)**: "Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1310.pdf) [[code]](https://github.com/ErnestGong/data2text-three-dimensions) :star::star::star:
 * **KB Retriever**: "Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue) :star::star::star:
