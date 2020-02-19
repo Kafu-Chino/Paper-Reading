@@ -5,6 +5,7 @@ Paper reading list in natural language processing.
 - [Paper-Reading](#paper-reading)
   - [Deep Learning in NLP](#deep-learning-in-nlp)
   - [Dialogue System](#dialogue-system)
+  - [Knowledge Representation & Reasoning](#knowledge-representation-&-reasoning)
   - [Text Summarization](#text-summarization)
   - [Topic Modeling](#topic-modeling)
   - [Machine Translation](#machine-translation)
@@ -43,6 +44,8 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](http://papers.
 ## Dialogue System
 * **RefNet**: "RefNet: A Reference-aware Network for Background Based Conversation". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet) :star::star::star:
 * **GLKS**: "Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) :star::star::star:
+* **MALA**: "MALA: Cross-Domain Dialogue Generation with Action Learning". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1912.08442.pdf) :star::star::star:
+
 * **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](https://arxiv.org/pdf/1905.07687.pdf) :star::star::star::star:
 * **Table-to-Text Generation (R,C,T)**: "Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1310.pdf) [[code]](https://github.com/ErnestGong/data2text-three-dimensions) :star::star::star:
 * **KB Retriever**: "Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever". EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue) :star::star::star:
@@ -111,6 +114,12 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **AliMe**: "AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine". ACL(2017) [[PDF]](https://aclweb.org/anthology/P17-2079) :star:
 * **Retrieval+multi-seq2seq**: "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0609.pdf) :star::star::star:
 
+
+## Knowledge Representation & Reasoning
+* **GNTP**: "Differentiable Reasoning on Large Knowledge Bases and Natural Language". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1912.10824.pdf) [[code]](https://github.com/uclnlp/gntp) :star::star::star::star:
+* **NTP**: "End-to-End Differentiable Proving". NIPS(2017) [[PDF]](http://papers.nips.cc/paper/6969-end-to-end-differentiable-proving.pdf) [[code]](https://github.com/uclnlp/ntp) :star::star::star::star:
+
+
 ## Text Summarization
 * **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum) :star::star::star:
 * **BERT-Two-Stage**: "Pretraining-Based Natural Language Generation for Text Summarization". arXiv(2019)  [[PDF]](https://arxiv.org/pdf/1902.09243.pdf) :star::star:
@@ -128,6 +137,7 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **ABS/ABS+**: "A Neural Attention Model for Abstractive Sentence Summarization". EMNLP(2015) [[PDF]](https://www.aclweb.org/anthology/D15-1044) :star::star:
 * **RAS-Elman/RAS-LSTM**: "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks". NAACL(2016) [[PDF]](https://www.aclweb.org/anthology/N16-1012) [[code]](https://github.com/facebookarchive/NAMAS)  :star::star::star:
 * **words-lvt2k-1sent**: "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond". CoNLL(2016) [[PDF]](https://www.aclweb.org/anthology/K16-1028) :star:
+
 
 ## Topic Modeling
 * **LDA**: "Latent Dirichlet Allocation". JMLR(2003) [[PDF]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) [[code]](https://github.com/blei-lab/lda-c) :star::star::star::star::star:
@@ -161,11 +171,13 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **HGTM**: "Using Hashtag Graph-Based Topic Model to Connect Semantically-Related Words Without Co-Occurrence in Microblogs". TKDE(2016) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7412726) :star::star::star:
 * **COTM**: "A topic model for co-occurring normal documents and short texts". WWW (2018) [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs11280-017-0467-8.pdf) :star::star::star::star:
 
+
 ## Machine Translation
 * **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-1048) :star::star::star:
 * **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](http://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf) :star::star::star:
 * **KVMem-Attention**: "Neural Machine Translation with Key-Value Memory-Augmented Attention". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0357.pdf) :star::star::star::star:
 * **Interactive-Attention**: "Interactive Attention for Neural Machine Translation". COLING(2016) [[PDF]](https://www.aclweb.org/anthology/C16-1205) :star::star::star:
+
 
 ## Question Answering
 * **CFC**: "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1901.00603.pdf) :star::star:
@@ -176,10 +188,12 @@ Complex Query Graphs". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-
 * **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](https://aclweb.org/anthology/P17-1021) :star::star::star:
 * **KVMem**: "Key-Value Memory Networks for Directly Reading Documents". EMNLP(2016) [[PDF]](https://www.aclweb.org/anthology/D16-1147) :star::star::star:
 
+
 ## Reading Comprehension
 * **DecompRC**: "Multi-hop Reading Comprehension through Question Decomposition and Rescoring". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1613) [[code]](https://github.com/shmsw25/DecompRC) :star::star::star::star:
 * **FlowQA**: "FlowQA: Grasping Flow in History for Conversational Machine Comprehension". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1810.06683.pdf) [[code]](https://github.com/momohuang/FlowQA) :star::star::star::star::star:
 *  **SDNet**: "SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering". arXiv(2018) [[PDF]](https://arxiv.org/pdf/1812.03593.pdf) [[code]](https://github.com/microsoft/SDNet) :star::star::star::star:
+
 
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0168.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star:
