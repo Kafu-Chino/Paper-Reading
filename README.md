@@ -5,7 +5,7 @@ Paper reading list in natural language processing.
 - [Paper-Reading](#paper-reading)
   - [Deep Learning in NLP](#deep-learning-in-nlp)
   - [Dialogue System](#dialogue-system)
-  - [Knowledge Representation & Reasoning](#knowledge-representation-\&-reasoning)
+  - [Knowledge Representation & Reasoning](#knowledge-representation-and-reasoning)
   - [Text Summarization](#text-summarization)
   - [Topic Modeling](#topic-modeling)
   - [Machine Translation](#machine-translation)
@@ -114,7 +114,7 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **Retrieval+multi-seq2seq**: "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0609.pdf) :star::star::star:
 
 
-## Knowledge Representation & Reasoning
+## Knowledge Representation and Reasoning
 * **GNTP**: "Differentiable Reasoning on Large Knowledge Bases and Natural Language". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1912.10824.pdf) [[code]](https://github.com/uclnlp/gntp) :star::star::star::star:
 * **NTP**: "End-to-End Differentiable Proving". NIPS(2017) [[PDF]](http://papers.nips.cc/paper/6969-end-to-end-differentiable-proving.pdf) [[code]](https://github.com/uclnlp/ntp) :star::star::star::star:
 
